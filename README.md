@@ -17,3 +17,5 @@ Add your maps to the levels/ folder if you feel like it.
 I will clean the project up once I have a bit more time, for now this is going to be a bit of a mess.
 
 I am including the subject for the project along with the game just in case anyone is interested.
+
+Thank you very much to [Tazmoe on itch.io](https://tazmoe.itch.io/bitrogue-basic) for the textures! 
